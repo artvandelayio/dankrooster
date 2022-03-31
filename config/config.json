@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB7C903b0E93C9Dc83DD6eB0Ca83206EF3c71b6D3",
+  "SCAN_LINK": "https://etherscan.io/address/0xB7C903b0E93C9Dc83DD6eB0Ca83206EF3c71b6D3",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Dank Roosters",
+  "SYMBOL": "DankRoosters",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 100000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gmersnft",
+  "SHOW_BACKGROUND": true
+}
